@@ -6,7 +6,7 @@ permalink: /publication/2010-number-2
 excerpt: 'An integrated direct torque control with multiple voltage vector (MVV) modulation was developed.'
 date: 2024-11-08
 venue: 'IEEE Transactions on Industrial Electronics (Early Access)'
-paperurl: 'http://academicpages.github.io/files/paper12.pdf'
+paperurl: 'http://zhaohengoscar.github.io/files/paper12.pdf'
 citation: 'Zhaoheng Wang, Xiaoyong Zhu, Lei Xu, Wen-Hua Chen, Qiyuan Liu, Li Quan. &quot;Multi-Voltage-Vector-Modulation-Based Integrated Direct Torque Control of Dual In-wheel PM Motors for Distributed Drive Electric Vehicles.&quot; <i>IEEE Transactions on Industrial Electronics (Early Access)</i>, doi: 10.1109/TIE.2024.3482000.'
 ---
 
