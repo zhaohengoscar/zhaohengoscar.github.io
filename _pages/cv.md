@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Professional Skills AND Awards"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,12 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Computer Competencies
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MATLAB/Simulink
+* Keil
+* C++
+* Origin
+* Ansys Maxwell
+* Network Technology
 
-Service and leadership
+Technical Instruments
 ======
-* Currently signed in to 43 different slack teams
+* dSPACE DS1007 controller
+* RTUnit RTU-BOX204 controller
+* ACS580-C26-17A0-3B universal servo driver
+* STM32F103ZET6 ARM Cortex-M3 microcontroller
+
+Awards
+======
+* First-Class Graduate Academic Scholarship for the Academic Year 2022-2023, Jiangsu University
+* Second-Class Graduate Academic Scholarship for the Academic Year 2023-2024, Jiangsu University
+
+Certification
+======
+* [National Computer Rank Examination (NCRE) level 3 Certificate in Network Technology](https://drive.google.com/file/d/1UaoXItu0hGa2lAX9V8QpteuxRXii_x7G/view?usp=sharing)
+* IELTS: Band 6.5 (Listening 7.5, Reading 6.0, Writing 6.0, Speaking 6.0)
