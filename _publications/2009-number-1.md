@@ -6,7 +6,7 @@ permalink: /publication/2009-number-1
 excerpt: 'An internal model observer in series with extended state observer was proposed to achieve better cogging torque observation and disturbance compensation control.'
 date: 2022-12-05
 venue: 'Proceedings of the CSEE (in Chinese)'
-paperurl: 'http://academicpages.github.io/files/paper11.pdf'
+paperurl: 'http://zhaohengoscar.github.io/files/paper11.pdf'
 citation: 'FU Xinghe, GU Shengdong, HE Hang, FU Chunyu, DONG Ting, WANG Zhaoheng. &quot;Compensation and Rejection of Cogging Torque of PMSM Based on Novel Internal Model Observer in Series With Extended State Observer.&quot; <i>Proceedings of the CSEE (in Chinese)</i>. vol. 42, no. 23, pp. 8729-8740, 2022.'
 ---
 
