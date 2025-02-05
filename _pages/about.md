@@ -21,8 +21,8 @@ Research interest
 
 My Superviors
 ------
-1. I am very fortunate to be guided by [Prof. Xiaoyong Zhu](https://ieeexplore.ieee.org/author/37536987700), Jiangsu University, Sep.2022 – Jun.2025. 
-1. I was guided by [Prof. Xinghe Fu](https://ieeexplore.ieee.org/author/37980581000), Southeast University, Sep.2018 – Jun.2022.
+I am very fortunate to be guided by [Prof. Xiaoyong Zhu](https://ieeexplore.ieee.org/author/37536987700), Jiangsu University, Sep.2022 – Jun.2025. 
+I was guided by [Prof. Xinghe Fu](https://ieeexplore.ieee.org/author/37980581000), Southeast University, Sep.2018 – Jun.2022.
 
 You can find my CV here: [Zhaoheng's Curriculum Vitae](../assets/Zhaoheng_AcademicCV.pdf)
 ------
