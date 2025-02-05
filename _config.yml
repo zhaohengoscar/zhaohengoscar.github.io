@@ -133,7 +133,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -252,6 +252,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _experi
+  - scope:
+      path: ""
+      type: experi
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _teaching
   - scope:
       path: ""
@@ -283,14 +292,6 @@ defaults:
   - scope:
       path: ""
       type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-  # _experi
-  - scope:
-      path: ""
-      type: experi
     values:
       layout: talk
       author_profile: true
