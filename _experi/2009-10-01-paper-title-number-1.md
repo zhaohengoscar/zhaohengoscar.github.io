@@ -3,7 +3,7 @@ title: "Active Disturbance Rejection System for High-Precision Magnetic Suspensi
 collection: experi
 permalink: /experi/2009-10-01-paper-title-number-1
 excerpt: 'A real magnetic suspension platform has been developed, successfully achieving stable levitation through active disturbance rejection control.'
-2020-10-01 - 2022-06-01
+2020-10-01-2022-06-01
 Posterurl: 'https://drive.google.com/file/d/1-mxBZeV_TETkZbhqB-sFDNG0Bh_C-oml/view?usp=sharing'
 ---
 
