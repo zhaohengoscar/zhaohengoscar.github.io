@@ -4,7 +4,7 @@ collection: experi
 permalink: /experi/2009-10-01-paper-title-number-1
 excerpt: 'A real magnetic suspension platform has been developed, successfully achieving stable levitation through active disturbance rejection control.'
 date: 2020-10-01
-slidesurl: 'https://drive.google.com/file/d/1-mxBZeV_TETkZbhqB-sFDNG0Bh_C-oml/view?usp=sharing'
+Posterurl: 'https://drive.google.com/file/d/1-mxBZeV_TETkZbhqB-sFDNG0Bh_C-oml/view?usp=sharing'
 ---
 
 Independent Researcher & principal investigator, Supervisor: Prof. Xinghe Fu             Sep.2021 – Jun.2022
