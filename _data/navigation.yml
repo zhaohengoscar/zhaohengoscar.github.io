@@ -9,10 +9,7 @@ main:
     url: /publications/
 
   - title: "Experience"
-    url: /talks/    
+    url: /experience/    
 
   - title: "Skills & Awards"
     url: /teaching/    
-    
-  - title: "CV"
-    url: /../assets/Zhaoheng_AcademicCV.pdf/
