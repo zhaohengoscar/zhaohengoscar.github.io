@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint"
+site_theme               : "dark"
 title                    : "Zhaoheng / Homepage"
 title_separator          : "-"
 name                     : &name "Zhaoheng Wang"
