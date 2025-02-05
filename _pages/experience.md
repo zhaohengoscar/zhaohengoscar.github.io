@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-
 Research Project
 ======
   <ul>{% for post in site.publications reversed %}
