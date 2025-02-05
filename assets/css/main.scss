@@ -7,8 +7,9 @@
  * Note that the files are processed in the order they are imported, so they are partly
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
-@import 
-   "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+
+theme: minimal-mistakes-jekyll
+
 @import 
     "vendor/breakpoint/breakpoint",
 
