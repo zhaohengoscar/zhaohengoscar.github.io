@@ -1,5 +1,5 @@
 ---
-title: "🔹Compensation and Rejection of Cogging Torque of PMSM Based on Novel Internal Model Observer in Series With Extended State Observer🔹"
+title: "📌Compensation and Rejection of Cogging Torque of PMSM Based on Novel Internal Model Observer in Series With Extended State Observer"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-number-1
