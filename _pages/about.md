@@ -15,11 +15,11 @@ My work is full of challenges and I thrive on them! I have endless innovative id
 
 📌Research interest
 ------
-1. Electric Vehicles
-1. Multi-Motor Coordinated Control
-1. Multi-agent System
-1. Euler-Lagrange Model
-1. Permanent Magnet Synchronous Motor
+1. 🟩🟩🟩🟩⬜Electric Vehicles
+1. 🟩🟩🟩🟩🟩Multi-Motor Coordinated Control
+1. 🟩🟩🟩⬜⬜Multi-agent System
+1. 🟩🟩🟩🟩🟩Euler-Lagrange Model
+1. 🟩🟩🟩🟩🟩Permanent Magnet Synchronous Motor
 
 📌My Brief Experience
 ------
