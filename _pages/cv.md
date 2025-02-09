@@ -21,9 +21,13 @@ Computer Competencies
 Technical Instruments
 ======
 * dSPACE DS1007 controller
+  <img src='/images/AW1.png'>
 * RTUnit RTU-BOX204 controller
+  <img src='/images/AW2.png'>
 * ACS580-C26-17A0-3B universal servo driver
+  <img src='/images/AW3.png'>
 * STM32F103ZET6 ARM Cortex-M3 microcontroller
+  <img src='/images/AW4.png'>
 
 Awards
 ======
