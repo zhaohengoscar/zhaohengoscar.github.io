@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2011-number-3
 excerpt: '⚙️An Euler-Lagrange-model based torque assignment (ELM-TA) control scheme is proposed.'
 date: 2025-2-15
-venue: 'IEEE Transactions on Industrial Electronics (Under Review)'
+venue: 'IEEE Transactions on Industrial Electronics (Accept, In Press)'
 citation: 'Zhaoheng Wang, Lei Xu, Xiaoyong Zhu, Li Quan, Wen-Hua Chen, Lizhang Xu, Shihong Ding. &quot;Euler-Lagrange-Model-Based Torque Assignment Control for Dual In-wheel PM Motors With Voltage Vectors Integrated Modulation.&quot; <i>IEEE Transactions on Industrial Electronics (Under Review)</i>.'
 ---
 
@@ -13,4 +13,4 @@ In this paper, an Euler-Lagrange-model based torque assignment (ELM-TA) control 
 
 Submitted 06-Oct-2024
 Major Revisions 07-Dec-2024
-Under Review 14-Jan-2025 — Now
+Accept 14-Mar-2025
