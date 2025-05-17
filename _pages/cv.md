@@ -37,6 +37,6 @@ Awards
 Certification
 ======
 * National Computer Rank Examination (NCRE) level 3 Certificate in Network Technology
-* <img src='/images/FFF8.png'>
-* <img src='/images/FFF9.png'>
+<img src='/images/FFF8.png'>
+<img src='/images/FFF9.png'>
 * IELTS: Band 6.5 (Listening 7.5, Reading 6.0, Writing 6.0, Speaking 6.0)
