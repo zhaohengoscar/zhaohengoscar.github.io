@@ -29,8 +29,8 @@ author:
   location         : "China"
   employer         : "Southeast University"
   uri              : # URL
-  employer         : "Jiangsu University"
-  uri              : # URL
+  #employer         : "Jiangsu University"
+  #uri              : # URL
   email            : "zhaoheng.oscar@gmail.com" 
 
   # Academic websites
